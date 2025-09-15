@@ -18,7 +18,8 @@ The goal of this project was to analyze a telecom dataset to understand the key 
 ## Interactive Dashboard
 
 Here is a screenshot of the final dashboard. You can interact with the live version on my Tableau Public profile:
+## Interactive Dashboard
 
-**[Link to your Tableau Public Dashboard]**
+Click the image below to interact with the live dashboard on Tableau Public.
 
-![Dashboard Screenshot](Customer Churn analysis.png)
+[![Dashboard Screenshot](Customer%20Churn%20analysis.png)](https://public.tableau.com/views/Churn_Analysis_Dashboard_17579362720530/CustomerChurnanalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
