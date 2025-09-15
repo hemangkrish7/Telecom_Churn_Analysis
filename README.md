@@ -21,4 +21,4 @@ Here is a screenshot of the final dashboard. You can interact with the live vers
 
 **[Link to your Tableau Public Dashboard]**
 
-![Dashboard Screenshot](link_to_your_screenshot.jpg)
+![Dashboard Screenshot](Customer Churn analysis.png)
